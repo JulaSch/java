@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=Employee
+comment1.params=name
+comment1.target=Employee(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Employee\r\n
+comment2.params=empAge
+comment2.target=void\ empAge(int)
+comment3.params=empDesig
+comment3.target=void\ empDesignation(java.lang.String)
+comment4.params=empSalary
+comment4.target=void\ empSalary(double)
+comment5.params=
+comment5.target=void\ printEmployee()
+numComments=6
